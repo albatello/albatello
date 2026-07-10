@@ -31,13 +31,16 @@ Backend con persistencia, autenticación y cifrado (AES-GCM, Bcrypt). Modelo CNN
 ## Stack
 
 **Lenguajes** · JavaScript · Python · SQL · C/C++
-**Frontend** · React Native · HTML/CSS
-**Backend** · Node.js · Express · FastAPI · WebSockets · APIs REST
-**Datos** · PostgreSQL · SQLAlchemy · MongoDB
-**IA** · OpenAI API · RAG · LangChain · LangGraph · CNN
-**Herramientas** · Git · N8N · Figma · Azure
 
-Uso Claude, Copilot y Cursor a diario: no como autocompletado, sino para explorar enfoques más rápido de lo que podría sola.
+**Frontend** · React Native · HTML/CSS
+
+**Backend** · Node.js · Express · FastAPI · WebSockets · APIs REST
+
+**Datos** · PostgreSQL · SQLAlchemy · MongoDB
+
+**IA** · OpenAI API · RAG · LangChain · LangGraph · CNN
+
+**Herramientas** · Git · N8N · Figma · Azure
 
 ---
 
