@@ -1,22 +1,48 @@
-# 💫 Sobre Mi:
-🔭 Estoy trabajando en<br>
-Proyecto de app web 'Lavaloo' para gestión personalizada de lavados, con historial, favoritos, lavados personalizados, escaneo OCR de etiquetas, y sincronización en tiempo real mediante Socket.IO sobre HTTPS.<br><br>🤝 Estoy buscando colaborar en<br>Proyectos relacionados con desarrollo web full-stack, diseño de interfaces creativas y accesibles, y sistemas distribuidos con comunicación cliente-servidor en C o JavaScript.<br><br>🌱 Estoy aprendiendo<br>Compiladores y análisis sintáctico con Yacc, bison por computador, técnicas de clustering, y nuevas formas de interacción como control por movimiento del dispositivo móvil.<br><br>💬 Preguntáme<br>Cómo guardar datos cifrados en bases de datos SQL, cómo hacer perfiles interactivos con localStorage, cómo crear efectos visuales atractivos con HTML/CSS/JS, o cómo estructurar trabajos académicos de usabilidad y ética en IA.<br>
+# Alba Tello Marcos
 
+**Ingeniera Informática (UC3M)** · Full stack + IA aplicada · Madrid
 
-## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/albateello) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albatello@gmail.com) 
+Construyo productos de principio a fin: decido qué construir, lo construyo, lo pongo delante de usuarios reales y lo corrijo con lo que aprendo. Vengo de un año diseñando sistemas RAG en producción.
 
-
-# 💻 Stack Tecnológico:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=albatellouc3m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=albatellouc3m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=albatellouc3m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=albatellouc3m&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+📫 albatello@gmail.com · [LinkedIn](https://linkedin.com/in/alba-tello-marcos)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=albatellouc3m&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Proyectos
+
+### 🎸 [GuitAR Studio](https://github.com/albatellouc3m/) — TFG (9,6/10)
+App móvil que convierte la URL de una canción de YouTube en una tablatura de guitarra sincronizada mediante IA, y proyecta la digitación de los acordes sobre el mástil real con Realidad Aumentada.
+
+`React Native` `FastAPI` `PostgreSQL` `Demucs` `madmom` `librosa` `ARCore`
+
+Pipeline de IA end-to-end (separación de fuentes → reconocimiento de acordes → tablatura sincronizada), arquitectura cliente-servidor con procesamiento asíncrono, y módulo de RA con compensación de latencia. Validado con 8 usuarios mediante SUS y UEQ-S.
+
+Prototipo funcional. RA solo en Android; anclaje por toque, sin seguimiento continuo del mástil.
+
+### 🧺 [LavaLoo](https://github.com/albatellouc3m/) — Sistemas Interactivos y Ubicuos (10/10)
+App web de gestión de lavados: historial, favoritos, escaneo OCR de etiquetas y sincronización en tiempo real.
+
+`Node.js` `Express.js` `Socket.IO` `JavaScript` `CNN`
+
+Backend con persistencia, autenticación y cifrado (AES-GCM, Bcrypt). Modelo CNN para reconocimiento de patrones, control por voz y por gestos vía Web APIs del navegador.
+
+---
+
+## Stack
+
+**Lenguajes** · JavaScript · Python · SQL · C/C++
+**Frontend** · React Native · HTML/CSS
+**Backend** · Node.js · Express · FastAPI · WebSockets · APIs REST
+**Datos** · PostgreSQL · SQLAlchemy · MongoDB
+**IA** · OpenAI API · RAG · LangChain · LangGraph · CNN
+**Herramientas** · Git · N8N · Figma · Azure
+
+Uso Claude, Copilot y Cursor a diario: no como autocompletado, sino para explorar enfoques más rápido de lo que podría sola.
+
+---
+
+## Ahora mismo
+
+🔭 Buscando equipo donde haya revisión de código y gente senior de la que aprender
+🌱 Profundizando en SQL: ventanas, CTEs, planes de ejecución
+💬 Pregúntame sobre pipelines RAG, arquitecturas agénticas, o por qué cambié streaming por polling y por qué fue la decisión correcta
