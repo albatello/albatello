@@ -10,7 +10,7 @@ Construyo productos de principio a fin: decido qué construir, lo construyo, lo 
 
 ## Proyectos
 
-### 🎸 [GuitAR Studio](https://github.com/albatellouc3m/) — TFG (9,6/10)
+### 🎸 [GuitAR Studio]([https://github.com/albatellouc3m/](https://github.com/albatello/GuitAR-Studio.git)) — TFG (9,6/10)
 App móvil que convierte la URL de una canción de YouTube en una tablatura de guitarra sincronizada mediante IA, y proyecta la digitación de los acordes sobre el mástil real con Realidad Aumentada.
 
 `React Native` `FastAPI` `PostgreSQL` `Demucs` `madmom` `librosa` `ARCore`
@@ -19,7 +19,7 @@ Pipeline de IA end-to-end (separación de fuentes → reconocimiento de acordes 
 
 Prototipo funcional. RA solo en Android; anclaje por toque, sin seguimiento continuo del mástil.
 
-### 🧺 [LavaLoo](https://github.com/albatellouc3m/) — Sistemas Interactivos y Ubicuos (10/10)
+### 🧺 [LavaLoo]([https://github.com/albatellouc3m/](https://github.com/albatello/LavaLoo.git)) — Sistemas Interactivos y Ubicuos (10/10)
 App web de gestión de lavados: historial, favoritos, escaneo OCR de etiquetas y sincronización en tiempo real.
 
 `Node.js` `Express.js` `Socket.IO` `JavaScript` `CNN`
